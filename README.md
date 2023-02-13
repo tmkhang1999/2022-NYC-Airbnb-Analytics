@@ -57,10 +57,7 @@ There are also three NYC Airbnb dataset files included, which were downloaded fr
 
 ## Results<a name="results"></a>
 ![img.png](data/img.png)
-<div>
-    <a href="https://plotly.com/~tmkhang1999/1/?share_key=cKt0CdRcoREs7PrIwRzl4J" target="_blank" title="neighborhood_scatter" style="display: block; text-align: center;"><img src="https://plotly.com/~tmkhang1999/1.png?share_key=cKt0CdRcoREs7PrIwRzl4J" alt="neighborhood_scatter" style="max-width: 100%;width: 1100px;"  width="1100" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
-    <script data-plotly="tmkhang1999:1" sharekey-plotly="cKt0CdRcoREs7PrIwRzl4J" src="https://plotly.com/embed.js" async></script>
-</div>
+<a href="https://plotly.com/~tmkhang1999/1/?share_key=cKt0CdRcoREs7PrIwRzl4J" target="_blank" title="neighborhood_scatter" style="display: block; text-align: center;"><img src="https://plotly.com/~tmkhang1999/1.png?share_key=cKt0CdRcoREs7PrIwRzl4J" alt="neighborhood_scatter" style="max-width: 100%;width: 1100px;"  width="1100" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
 
 
 ## Licensing<a name="licensing"></a>
