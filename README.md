@@ -9,6 +9,8 @@
   <a href="http://insideairbnb.com/get-the-data/"><strong>Explore Airbnb Dataset »</strong></a>
 </p>
 
+https://user-images.githubusercontent.com/74235084/218790045-3899179f-4664-4835-9ba0-ab965a5f09d0.mp4
+
 ## Table of Contents
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
