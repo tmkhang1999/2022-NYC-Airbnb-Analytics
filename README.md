@@ -58,8 +58,19 @@ There are also three NYC Airbnb dataset files included, which were downloaded fr
 3. calendar.csv.gz: includes records of prices, availabilities, and other details from the listing's calendar for each day of the next 365 days.
 
 ## Results<a name="results"></a>
-![img.png](data/img.png)
-<a href="https://plotly.com/~tmkhang1999/1/?share_key=cKt0CdRcoREs7PrIwRzl4J" target="_blank" title="neighborhood_scatter" style="display: block; text-align: center;"><img src="https://plotly.com/~tmkhang1999/1.png?share_key=cKt0CdRcoREs7PrIwRzl4J" alt="neighborhood_scatter" style="max-width: 100%;width: 1100px;"  width="1100" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+<p float="left">
+  <img src="data/img1.png" width="418" height="200" alt=""/>
+  <img src="data/img3.png" width="320" height="200" alt=""/>
+  <img src="data/img4.png" width="357" height="248" alt=""/>
+  <img src="data/img7.png" width="381" height="248" alt=""/>
+
+  <img src="data/img5.png" width="345" height="363" alt=""/>
+  <img src="data/img6.png" width="393" height="363" alt=""/>
+</p>
+
+<a href="https://plotly.com/~tmkhang1999/1/?share_key=cKt0CdRcoREs7PrIwRzl4J" target="_blank" title="neighborhood_scatter" style="display: block; text-align: left;"><img src="https://plotly.com/~tmkhang1999/1.png?share_key=cKt0CdRcoREs7PrIwRzl4J" alt="neighborhood_scatter" style="max-width: 100%;width: 741px;"  width="1100" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+<a href="https://plotly.com/~tmkhang1999/7/?share_key=Xcd7JpSs1recw5mzP0n14V" target="_blank" title="price_fluctuation" style="display: block; text-align: left;"><img src="https://plotly.com/~tmkhang1999/7.png?share_key=Xcd7JpSs1recw5mzP0n14V" alt="price_fluctuation" style="max-width: 100%;width: 741px;"  width="1100" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+<a href="https://plotly.com/~tmkhang1999/3/?share_key=gowJ2jTLHRoe2Fw83l48ZL" target="_blank" title="availability_2022" style="display: block; text-align: left;"><img src="https://plotly.com/~tmkhang1999/3.png?share_key=gowJ2jTLHRoe2Fw83l48ZL" alt="availability_2022" style="max-width: 100%;width: 741px;"  width="1100" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
 
 
 ## Licensing<a name="licensing"></a>
