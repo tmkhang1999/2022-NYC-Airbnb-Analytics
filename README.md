@@ -58,6 +58,7 @@ There are also three NYC Airbnb dataset files included, which were downloaded fr
 3. calendar.csv.gz: includes records of prices, availabilities, and other details from the listing's calendar for each day of the next 365 days.
 
 ## Results<a name="results"></a>
+Click on this <a href="https://medium.com/@khangtm99/2022-nyc-airbnb-analytics-9055288b1de9">Medium Post</a> link to understand more about the data visualization
 <p float="left">
   <img src="data/img1.png" width="418" height="200" alt=""/>
   <img src="data/img3.png" width="320" height="200" alt=""/>
